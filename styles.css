@@ -883,6 +883,40 @@ footer {
 
 /* RESPONSIVE */
 @media (max-width: 968px) {
+    .hero {
+        overflow: hidden;
+    }
+
+    .hero-content {
+        width: 100%;
+        padding: 0 1.5rem;
+        text-align: center;
+    }
+
+    .hero-logo {
+        max-width: 85%;
+        margin: 0 auto 2.5rem;
+    }
+
+    .subtitle {
+        font-size: 1.1rem;
+        max-width: 100%;
+        margin-bottom: 2.5rem;
+    }
+
+    .hero-actions {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .btn-solid,
+    .btn-outline {
+        width: 100%;
+        max-width: 320px;
+        text-align: center;
+    }
+
     .hero h1 {
         font-size: 3rem;
     }
@@ -901,12 +935,33 @@ footer {
         flex-direction: column;
     }
 
+    .resource-grid {
+        grid-template-columns: 1fr;
+    }
+
     nav ul {
         display: none;
     }
 
     .about-grid {
         grid-template-columns: 1fr;
+    }
+
+    .about-header h2 {
+        font-size: 2.2rem;
+    }
+
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .funder-logos {
+        flex-wrap: wrap;
+        gap: 2rem;
+    }
+
+    .section-header h2 {
+        font-size: 2rem;
     }
 }
 

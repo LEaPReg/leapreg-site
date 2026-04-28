@@ -14,7 +14,7 @@ Static site — HTML, CSS, vanilla JS. Hosted on GitHub Pages.
 
 ## Team
 
-Albert Falcó-Gimeno (PI) · Jaume Magre-Pont · Alex Casadevall · Mario Lozano · Pau Vall-Prat · Marta Curto-Grau · Francesc Amat
+Albert Falcó-Gimeno (PI) · Pau Vall-Prat · Mario Lozano ·  Alex Casadevall · Jaume Magre-Pont · Alba Huidobro ·  Jordi Muñoz 
 
 ## Contact
 
